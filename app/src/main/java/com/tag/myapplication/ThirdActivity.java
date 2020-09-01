@@ -12,5 +12,12 @@ public class ThirdActivity extends AppCompatActivity {
         setContentView(R.layout.activity_third);
 
         // Thirda laptop
+
+        //fahed osama is the best understanding human
+    }
+
+    void isUndersting(){
+
+        
     }
 }
