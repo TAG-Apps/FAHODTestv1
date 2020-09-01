@@ -4,21 +4,13 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class ThirdActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_third);
 
-        //FAHED V1
-
-        // FAHED V2
-
-        // FAHDE V3
-
-        //fahed v4 m3alleemmm
-
-
+        // Thirda laptop
     }
 }
